@@ -1,0 +1,13 @@
+/* CSS for AidanH6.github.io */
+
+.body {
+    background: linear-gradient( #cf1111 );
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+
+.h1 {
+    color: #000000;
+    font-size: 24;
+}
