@@ -1,8 +1,14 @@
 /* CSS for AidanH6.github.io */
 
-.body {
-    background: linear-gradient( #cf1111 );
+.html {
     height: 100%;
+    margin: 0px;
+    width: 100%;
+ }
+
+.body {
+    background: linear-gradient( #cf1111, #e49d9d );
+    min-height: 100%;
     overflow: hidden;
     width: 100%;
 }
