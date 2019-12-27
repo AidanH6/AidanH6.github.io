@@ -12,6 +12,12 @@
     height: 250px;
 }
 
+.imageBlock {
+    width: 100px;
+    height: 250px;
+    background-color: green;
+}
+
 .imageThumb {
     background-color: #555555;
     border-radius: 50%;
