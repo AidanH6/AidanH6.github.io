@@ -1,16 +1,16 @@
 /* CSS for AidanH6.github.io */
 
-.html {
-    background: linear-gradient( #cf1111, #e49d9d );
-    height: 100%;
-    margin: 0px;
-    width: 100%;
- }
-
 .body {
-    min-height: 100%;
+    background-color: ( #d6d6d6 );
+    min-height: 768px;
+    margin: 0px;
     overflow: hidden;
     width: 100%;
+}
+
+.header {
+    background-color: #06088a;
+    height: 25%;
 }
 
 .h1 {
