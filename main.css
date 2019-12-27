@@ -13,11 +13,11 @@
 }
 
 .imageThumb {
-    background-color: red;
+    background-color: #555555;
     border-radius: 50%;
-    height: 75px;
-    width: 75px;
-    margin-left: 100px;
+    height: 85px;
+    width: 85px;
+    margin-left: 5%;
 }
 
 .main {
@@ -27,4 +27,6 @@
 .h1 {
     color: #000000;
     font-size: 24;
+    padding: 0px;
+    margin: 0px;
 }
