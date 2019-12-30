@@ -9,13 +9,13 @@
 
 .header {
     background-color: #06088a;
-    height: 250px;
+    height: 275px;
     position: relative;
 }
 
 .imageBlock {
-    width: 100px;
-    height: 250px;
+    width: 275px;
+    height: 275px;
     background-color: green;
 }
 
