@@ -10,6 +10,7 @@
 .header {
     background-color: #06088a;
     height: 250px;
+    position: relative;
 }
 
 .imageBlock {
@@ -21,9 +22,15 @@
 .imageThumb {
     background-color: #555555;
     border-radius: 50%;
-    height: 85px;
-    width: 85px;
-    margin-left: 5%;
+    height: 245px;
+    margin: 16px;
+    position: absolute;
+    width: 245px;
+}
+
+.headerText {
+    height: 100%;
+    width: 100%;
 }
 
 .main {
