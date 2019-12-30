@@ -23,14 +23,29 @@
     background-color: #555555;
     border-radius: 50%;
     height: 245px;
-    margin: 16px;
+    margin: 15px;
     position: absolute;
     width: 245px;
 }
 
-.headerText {
+.headerInfo {
     height: 100%;
     width: 100%;
+    left: 280px;
+}
+
+.headerText {
+    height: 70%;
+    width: 100%;
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.headerSocial {
+    height: 30%;
+    width: 100%;
+    background-color: crimson;
 }
 
 .main {
