@@ -8,13 +8,9 @@
 }
 
 .main {
-    text-align: center;
-    background-color: black;
-}
-
-.h1 {
+    background-color: #000000;
     color: #ffffff;
-    font-size: 24;
-    padding: 0px;
-    margin: 0px;
+    height: 100%;
+    text-align: center;
+    width: 100%;
 }
