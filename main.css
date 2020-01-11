@@ -64,6 +64,13 @@
     background-color: purple;
 }
 
+.textAreaInner {
+    background-color: green;
+    position: relative;
+    height: 30%;
+    width: 60%
+}
+
 .contentAreaOne {
     background-color: blue;
     height: 33%;
