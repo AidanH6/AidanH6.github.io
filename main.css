@@ -33,18 +33,19 @@
 
 .contentImage {
     background-color: green;
-    height: 100%;
+    height: 375px;
+    position: absolute;
     width: 30%;
 }
 
 .contentimageCircle {
-    height: 360px;
-    width: 360px;
     border-radius: 50%;
     background-color: purple;
+    height: 360px;
+    margin-left: 60px;
+    margin-top: 5px;
     position: relative;
-    margin-left: 65px;
-    margin-top: 8px;
+    width: 360px;
 }
 
 .contentAreaOne {
