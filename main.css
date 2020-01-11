@@ -15,9 +15,8 @@
 }
 
 .headerText {
-    margin: 0px;
-    margin-top: 0px;
-    font-size: 40px;
+    font-size: 45px;
+    padding-top: 20px;
 }
 
 .Content {
