@@ -43,7 +43,6 @@
     border-radius: 50%;
     border-color: #000000;
     border-style: solid;
-    background-color: purple;
     height: 360px;
     margin-left: 40px;
     margin-top: 5px;
@@ -53,8 +52,16 @@
 
 .infoText {
     background-color: green;
-    height: 20%;
+    height: 375px;
+    position: absolute;
     width: 30%;
+}
+
+.textArea {
+    height: 400px;
+    width: 600px;
+    position: relative;
+    background-color: purple;
 }
 
 .contentAreaOne {
