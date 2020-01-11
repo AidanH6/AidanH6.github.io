@@ -38,10 +38,13 @@
 }
 
 .contentimageCircle {
-    height: 100px;
-    width: 150px;
+    height: 360px;
+    width: 360px;
     border-radius: 50%;
     background-color: purple;
+    position: relative;
+    margin-left: 65px;
+    margin-top: 8px;
 }
 
 .contentAreaOne {
