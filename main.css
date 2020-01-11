@@ -9,7 +9,9 @@
 
 .headerBar {
     background-color: #000000;
+    color: #ffffff;
     height: 6%;
+    padding-left: 20px;
 }
 
 .Content {
@@ -22,6 +24,12 @@
 .contentHeader {
     background-color: #888888;
     height: 30%;
+}
+
+.headerImage {
+    background-color: green;
+    height: 100%;
+    width: 30%;
 }
 
 .contentAreaOne {
