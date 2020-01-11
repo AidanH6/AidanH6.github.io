@@ -61,11 +61,11 @@
     height: 375px;
     width: 1025px;
     position: relative;
-    background-color: purple;
+    /* background-color: purple; */
 }
 
 .textAreaInner {
-    background-color: green;
+    /* background-color: green; */
     border-color: #000000;
     border-style: solid;
     position: absolute;
@@ -75,7 +75,7 @@
 }
 
 .contentAreaOne {
-    background-color: blue;
+    /* background-color: blue; */
     height: 33%;
     overflow: hidden;
 }
