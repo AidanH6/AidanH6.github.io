@@ -11,12 +11,12 @@
     background-color: #000000;
     color: #ffffff;
     height: 6%;
-    padding-left: 50px;
 }
 
 .headerText {
     font-size: 45px;
     padding-top: 20px;
+    padding-left: 30px;
 }
 
 .Content {
@@ -31,10 +31,17 @@
     height: 30%;
 }
 
-.headerImage {
+.contentImage {
     background-color: green;
     height: 100%;
     width: 30%;
+}
+
+.contentimageCircle {
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: purple;
 }
 
 .contentAreaOne {
