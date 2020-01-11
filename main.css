@@ -54,21 +54,24 @@
     height: 375px;
     position: relative;
     width: 30%;
-    padding-left: 55%;
+    padding-left: 30%;
 }
 
 .textArea {
     height: 375px;
-    width: 650px;
+    width: 1025px;
     position: relative;
     background-color: purple;
 }
 
 .textAreaInner {
     background-color: green;
-    position: relative;
-    height: 30%;
-    width: 60%
+    border-color: #000000;
+    border-style: solid;
+    position: absolute;
+    height: 85%;
+    width: 94%;
+    margin: 30px;
 }
 
 .contentAreaOne {
