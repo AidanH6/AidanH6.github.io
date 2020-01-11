@@ -26,18 +26,20 @@
     text-align: center;
 }
 
-.contentHeader {
+.contentInfo {
     background-color: #c4c4c4;
+    border-color: #000000;
+    border-bottom-style: solid;
     height: 30%;
 }
 
-.contentImage {
+.infoImage {
     height: 375px;
     position: absolute;
     width: 30%;
 }
 
-.contentimageCircle {
+.infoimageCircle {
     border-radius: 50%;
     border-color: #000000;
     border-style: solid;
@@ -47,6 +49,12 @@
     margin-top: 5px;
     position: relative;
     width: 360px;
+}
+
+.infoText {
+    background-color: green;
+    height: 20%;
+    width: 30%;
 }
 
 .contentAreaOne {
