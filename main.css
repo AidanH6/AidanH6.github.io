@@ -7,22 +7,24 @@
     width: 100%;
 }
 
-.headerbar {
+.headerBar {
     background-color: #000000;
-    height: 10%;
-    width: 100%;
+    height: 6%;
 }
 
 .Content {
     background-color: #b41313;
     color: #ffffff;
-    height: 90%;
+    height: 100%;
     text-align: center;
-    width: 100%;
 }
 
 .contentHeader {
     background-color: #888888;
-    height: 20%;
-    width: 100%;
+    height: 30%;
+}
+
+.contentAreaOne {
+    background-color: blue;
+    height: 30%;
 }
