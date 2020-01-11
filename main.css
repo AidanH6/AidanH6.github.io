@@ -27,12 +27,11 @@
 }
 
 .contentHeader {
-    background-color: #888888;
+    background-color: #c4c4c4;
     height: 30%;
 }
 
 .contentImage {
-    background-color: green;
     height: 375px;
     position: absolute;
     width: 30%;
@@ -42,7 +41,7 @@
     border-radius: 50%;
     background-color: purple;
     height: 360px;
-    margin-left: 60px;
+    margin-left: 40px;
     margin-top: 5px;
     position: relative;
     width: 360px;
@@ -50,5 +49,5 @@
 
 .contentAreaOne {
     background-color: blue;
-    height: 30%;
+    height: 33%;
 }
