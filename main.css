@@ -39,6 +39,8 @@
 
 .contentimageCircle {
     border-radius: 50%;
+    border-color: #000000;
+    border-style: solid;
     background-color: purple;
     height: 360px;
     margin-left: 40px;
@@ -50,8 +52,5 @@
 .contentAreaOne {
     background-color: blue;
     height: 33%;
-}
-
-.h1 {
-    margin: 0px;
+    overflow: hidden;
 }
