@@ -27,7 +27,6 @@
 }
 
 .contentInfo {
-    background-color: #c4c4c4;
     border-color: #000000;
     border-bottom-style: solid;
     height: 30%;
@@ -43,11 +42,11 @@
     border-radius: 50%;
     border-color: #000000;
     border-style: solid;
-    height: 360px;
+    height: 330px;
     margin-left: 40px;
-    margin-top: 5px;
+    margin-top: 22px;
     position: relative;
-    width: 360px;
+    width: 330px;
 }
 
 .infoText {
@@ -61,11 +60,9 @@
     height: 375px;
     width: 1025px;
     position: relative;
-    /* background-color: purple; */
 }
 
 .textAreaInner {
-    /* background-color: green; */
     border-color: #000000;
     border-style: solid;
     position: absolute;
@@ -75,7 +72,6 @@
 }
 
 .contentAreaOne {
-    /* background-color: blue; */
     height: 33%;
     overflow: hidden;
 }
