@@ -27,7 +27,7 @@
 }
 
 .contentInfo {
-    background-color: #ffffff;
+    background-color: #d9d9d9;
     border-color: #000000;
     border-bottom-style: solid;
     height: 30%;
@@ -81,7 +81,7 @@
 
 /* Utility class (text etc) */
 .paragraph {
-    padding: 20px;
-    font-size: 21px;
+    padding: 21px;
+    font-size: 24px;
     text-align: left;
 }
