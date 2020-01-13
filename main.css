@@ -27,6 +27,7 @@
 }
 
 .contentInfo {
+    background-color: #ffffff;
     border-color: #000000;
     border-bottom-style: solid;
     height: 30%;
@@ -65,6 +66,7 @@
 .textAreaInner {
     border-color: #000000;
     border-style: solid;
+    color: #000000;
     position: absolute;
     height: 85%;
     width: 94%;
@@ -74,4 +76,12 @@
 .contentAreaOne {
     height: 33%;
     overflow: hidden;
+}
+
+
+/* Utility class (text etc) */
+.paragraph {
+    padding: 20px;
+    font-size: 21px;
+    text-align: left;
 }
