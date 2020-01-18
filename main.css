@@ -77,6 +77,17 @@
     overflow: hidden;
 }
 
+.contentAreaTwo {
+    height: 33%;
+    overflow: hidden;
+    background-color: green;
+}
+
+.contentAreaThree {
+    height: 33%;
+    overflow: hidden;
+    background-color: blue;
+}
 
 /* Utility class (text etc) */
 .paragraph {
