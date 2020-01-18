@@ -20,7 +20,7 @@
 }
 
 .Content {
-    color: #ffffff;
+    color: #000000;
     height: 100%;
     text-align: center;
 }
@@ -72,16 +72,23 @@
 }
 
 .contentAreaOne {
+    border-color: #000000;
+    border-style: solid;
     height: 23%;
     overflow: hidden;
 }
 
 .contentAreaTwo {
+    border-color: #000000;
+    border-style: solid;
     height: 22%;
     overflow: hidden;
+    
 }
 
 .contentAreaThree {
+    border-color: #000000;
+    border-style: solid;
     height: 22%;
     overflow: hidden;
 }
