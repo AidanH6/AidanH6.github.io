@@ -20,7 +20,6 @@
 }
 
 .Content {
-    background-color: #b41313;
     color: #ffffff;
     height: 100%;
     text-align: center;
@@ -73,20 +72,18 @@
 }
 
 .contentAreaOne {
-    height: 33%;
+    height: 23%;
     overflow: hidden;
 }
 
 .contentAreaTwo {
-    height: 33%;
+    height: 22%;
     overflow: hidden;
-    background-color: green;
 }
 
 .contentAreaThree {
-    height: 33%;
+    height: 22%;
     overflow: hidden;
-    background-color: blue;
 }
 
 /* Utility class (text etc) */
