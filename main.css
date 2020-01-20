@@ -20,13 +20,13 @@
 }
 
 .Content {
+    background-color: #d9d9d9;
     color: #000000;
     height: 100%;
     text-align: center;
 }
 
 .contentInfo {
-    background-color: #d9d9d9;
     border-color: #000000;
     border-bottom-style: solid;
     height: 30%;
