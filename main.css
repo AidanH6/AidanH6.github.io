@@ -20,9 +20,16 @@
     width: 100vw;
 }
 
+.header {
+    width: 100vw;
+    height: 10vh;
+    background-color: red;
+    padding-top: 20px;
+}
+
 .Content {
     background-color: var(--main-color);
     color: var(--secondary-colour);;
-    height: 100%;
+    height: 100vh;
     text-align: center;
 }
