@@ -27,7 +27,13 @@
     padding-top: 20px;
 }
 
-.Content {
+.pageTitle {
+    color: var(--secondary-colour);
+    font-size: 42px;
+    text-align: left;
+}
+
+.content {
     background-color: var(--main-color);
     color: var(--secondary-colour);;
     height: 100vh;
