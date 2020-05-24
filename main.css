@@ -27,18 +27,28 @@
     padding-top: 20px;
 }
 
-.list {
-    padding: 0px;
-    margin: 0px;
-    text-align: center;
-    display:inline-block;
-}
-
 .pageTitle {
     color: var(--secondary-colour);
     font-size: 42px;
     text-align: left;
     margin-left: 50px;
+}
+
+.list{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.linkClass {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    list-style-type: none;
+    padding: 0px;
+    display: inline;
 }
 
 .content {
