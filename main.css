@@ -28,7 +28,10 @@
 }
 
 .list {
-    background-color: blue;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
 }
 
 .pageTitle {
