@@ -6,13 +6,6 @@
     --secondary-colour: #000000
 }
 
-.paragraph {
-    color: var(--secondary-colour);
-    font-size: 24px;
-    padding-left: 21px;
-    text-align: left;
-}
-
 .body {
     height: 100vh;
     margin: 0px;
@@ -34,7 +27,7 @@
     margin-left: 50px;
 }
 
-.list{
+.pageTitle .list {
     padding: 0px;
     margin: 0px;
     text-align: center;
@@ -42,7 +35,7 @@
     vertical-align:top;
 }
 
-.linkClass {
+.pageTitle .linkClass {
     padding: 0px;
     margin: 0px;
     text-align: center;
