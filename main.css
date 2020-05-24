@@ -32,67 +32,6 @@
     height: 30%;
 }
 
-.infoImage {
-    height: 375px;
-    position: absolute;
-    width: 30%;
-}
-
-.infoimageCircle {
-    border-radius: 50%;
-    border-color: #000000;
-    border-style: solid;
-    height: 330px;
-    margin-left: 40px;
-    margin-top: 22px;
-    position: relative;
-    width: 330px;
-}
-
-.infoText {
-    height: 375px;
-    position: relative;
-    width: 30%;
-    padding-left: 30%;
-}
-
-.textArea {
-    height: 375px;
-    width: 1025px;
-    position: relative;
-}
-
-.textAreaInner {
-    border-color: #000000;
-    border-style: solid;
-    position: absolute;
-    height: 85%;
-    width: 94%;
-    margin: 30px;
-}
-
-.contentAreaOne {
-    border-color: #000000;
-    border-style: solid;
-    height: 23%;
-    overflow: hidden;
-}
-
-.contentAreaTwo {
-    border-color: #000000;
-    border-style: solid;
-    height: 22%;
-    overflow: hidden;
-    
-}
-
-.contentAreaThree {
-    border-color: #000000;
-    border-style: solid;
-    height: 22%;
-    overflow: hidden;
-}
-
 /* Utility class (text etc) */
 .paragraph {
     color: #000000;
