@@ -27,23 +27,6 @@
     margin-left: 50px;
 }
 
-.pageTitle .list {
-    padding: 0px;
-    margin: 0px;
-    text-align: center;
-    display:inline-block;
-    vertical-align:top;
-}
-
-.pageTitle .linkClass {
-    padding: 0px;
-    margin: 0px;
-    text-align: center;
-    list-style-type: none;
-    padding: 0px;
-    display: inline;
-}
-
 .content {
     background-color: var(--main-color);
     color: var(--secondary-colour);;
