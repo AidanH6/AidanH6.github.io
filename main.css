@@ -27,6 +27,10 @@
     padding-top: 20px;
 }
 
+.list {
+    background-color: blue;
+}
+
 .pageTitle {
     color: var(--secondary-colour);
     font-size: 42px;
