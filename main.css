@@ -27,12 +27,17 @@
     margin-left: 50px;
     background-color: green;
     width: 25%;
+    display: inline-block;
+    height: inherit;
 }
 
 .nav-box {
     background-color: crimson;
-    text-align: right;
-    display: inline;
+    justify-content: space-between;
+    display: inline-block;
+    height: inherit;
+    width: 40%;
+    position: absolute;
 }
 
 .content {
