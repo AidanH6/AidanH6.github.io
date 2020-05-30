@@ -49,6 +49,10 @@
     font-size: 3em;
 }
 
+.fa {
+    padding: 4px 8px !important;
+}
+
 .content {
     background-color: var(--main-color);
     color: var(--secondary-colour);;
