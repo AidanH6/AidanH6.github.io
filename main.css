@@ -14,17 +14,16 @@
 }
 
 .header {
-    width: 100vw;
     height: 8vh;
     background-color: red;
     padding-top: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 .page-title {
     color: var(--secondary-colour);
     font-size: 42px;
-    text-align: left;
-    margin-left: 50px;
     background-color: green;
     width: 25%;
     display: inline-block;
@@ -36,8 +35,9 @@
     justify-content: space-between;
     display: inline-block;
     height: inherit;
-    width: 40%;
+    width: 30%;
     position: absolute;
+    margin-left: 33%;
 }
 
 .content {
