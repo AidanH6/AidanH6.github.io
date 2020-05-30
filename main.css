@@ -35,15 +35,18 @@
     justify-content: space-between;
     display: inline-block;
     height: inherit;
-    width: 30%;
+    width: 22%;
     position: absolute;
-    margin-left: 33%;
+    margin-left: 41%;
+
 }
 
 .nav-icons {
     color: var(--main-color);
-    padding: 5px;
+    padding: 10px 20px;
     text-align: center;
+    display: block;
+    font-size: 3em;
 }
 
 .content {
