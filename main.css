@@ -40,6 +40,12 @@
     margin-left: 33%;
 }
 
+.nav-icons {
+    color: var(--main-color);
+    padding: 5px;
+    text-align: center;
+}
+
 .content {
     background-color: var(--main-color);
     color: var(--secondary-colour);;
