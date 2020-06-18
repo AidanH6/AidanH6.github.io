@@ -6,6 +6,10 @@
     --secondary-colour: #000000
 }
 
+a:link {
+    color: var(--main-color);
+}
+
 .body {
     height: 100vh;
     margin: 0px;
