@@ -6,10 +6,6 @@
     --secondary-colour: #000000
 }
 
-a {
-    color: var(--secondary-colour);
-}
-
 .body {
     height: 100vh;
     margin: 0px;
