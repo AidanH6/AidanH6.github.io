@@ -6,8 +6,8 @@
     --secondary-colour: #000000
 }
 
-a:link {
-    color: var(--main-color);
+a {
+    color: var(--secondary-colour);
 }
 
 .body {
