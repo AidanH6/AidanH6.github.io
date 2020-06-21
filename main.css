@@ -84,12 +84,11 @@
 
 .left {
     left: 0;
-    background-color: blue;
+    border-right: solid black;
     width: 40%;
 }
 
 .right {
     right: 0;
-    background-color: crimson;
     width: 60%;
 }
