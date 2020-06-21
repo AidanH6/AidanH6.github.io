@@ -72,16 +72,25 @@
 }
 
 .main-area {
-    background-color: red;
     height: 90vh;
 }
 
-.image {
-    width: 40%;
-    background-color: blue;
-    position: absolute;
+.about {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
 }
 
-.about {
-    border: solid black;
+.left {
+    left: 0;
+    background-color: blue;
+}
+
+.right {
+    right: 0;
+    background-color: crimson;
 }
