@@ -73,6 +73,15 @@
 
 .main-area {
     background-color: red;
-    border: solid black;
     height: 90vh;
+}
+
+.image {
+    width: 40%;
+    background-color: blue;
+    position: absolute;
+}
+
+.about {
+    border: solid black;
 }
