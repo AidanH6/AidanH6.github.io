@@ -94,11 +94,11 @@
 .image { 
     height: 50%;
     margin: 120px;
-    overflow: hidden;
-    width: 70%;
     background-color: blue;
 }
 
 .info {
-    background-color: crimson;
+    margin: 120px;
+    background-color: red;
+    height: 70%;
 }
