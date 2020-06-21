@@ -74,5 +74,5 @@
 .main-area {
     background-color: red;
     border: solid black;
-    margin: 5px;
+    height: 90vh;
 }
