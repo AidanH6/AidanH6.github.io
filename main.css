@@ -92,3 +92,11 @@
     right: 0;
     width: 60%;
 }
+
+.image { 
+    background-color: blue;
+}
+
+.info {
+    background-color: crimson;
+}
