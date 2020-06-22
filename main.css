@@ -6,11 +6,6 @@
     --secondary-colour: #000000
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-}
-
 .body {
     height: 100vh;
     margin: 0px;
@@ -97,13 +92,17 @@ img {
 }
 
 .image { 
-    height: 50%;
     margin: 120px;
-    background-color: blue;
+}
+
+img {
+    max-width: 65%;
+    height: auto;
 }
 
 .info {
     margin: 120px;
     background-color: red;
     height: 70%;
+    border: solid black;
 }
