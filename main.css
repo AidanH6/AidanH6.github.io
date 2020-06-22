@@ -37,7 +37,7 @@
 
 .page-title {
     color: var(--secondary-colour);
-    font-size: 42px;
+    font-size: 2vw;
     width: 25%;
     display: inline-block;
     height: inherit;
@@ -55,7 +55,7 @@
 
 .nav-icons {
     color: var(--secondary-color);
-    padding: 5px 20px;
+    padding: 1% 5%;
     text-align: center;
     display: block;
 }
@@ -95,6 +95,11 @@
     height: 50%;
     margin: 120px;
     background-color: blue;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
 }
 
 .info {
