@@ -92,7 +92,9 @@
 }
 
 .image { 
-    margin: 120px;
+    height: 50%;
+    margin-top: 15%;
+    background-color: blue;
 }
 
 /* Change the img class directly */
@@ -102,8 +104,8 @@ img {
 }
 
 .info {
-    margin: 120px;
+    margin-top: 10%;
     background-color: red;
-    height: 70%;
+    height: 50%;
     border: solid black;
 }
