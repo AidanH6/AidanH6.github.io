@@ -95,6 +95,7 @@
     margin: 120px;
 }
 
+/* Change the img class directly */
 img {
     max-width: 65%;
     height: auto;
