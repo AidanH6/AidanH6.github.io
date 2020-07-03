@@ -108,4 +108,6 @@ img {
     background-color: red;
     height: 50%;
     border: solid black;
+    text-align: justify;
+    font-size: 3vh;
 }
